@@ -1,7 +1,7 @@
 html,body {
     font-family: sans-serif;
     scroll-behavior: smooth;
-    background: tomato;
+    background: forestgreen;
 }
 h1,h2,h3,h4,h5,h6 {
     margin: 0;
@@ -57,7 +57,7 @@ section {
     display: flex;
     gap: 1em;
     align-items: center;
-    border: 5px solid gold;
+    border: 5px solid darkgreen;
     margin: .5em;
 }
 
